@@ -35,6 +35,8 @@ public:
 	 */
 	void OperatorControl(void)
 	{
+		// I can't talk right now,
+		// I'm snitting next to Borpo.
 		myRobot.SetSafetyEnabled(true);
 		while (IsOperatorControl())
 		{
